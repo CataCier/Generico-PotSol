@@ -62,5 +62,5 @@ $(document).ready(function () {
             }
         })
     else
-        $("#fondeo1").click()
+        $("#fondeo-1").click()
 });
