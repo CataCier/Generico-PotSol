@@ -6,11 +6,11 @@ function main(carrera) {
     $("#materias").empty();
     let filename, titulo, tituloShort, plan;
     switch (carrera) {
-        case 'informatica':
+        case 'fondeo1':
             filename = 'data/fondeo-1.csv';
             plan = 'Plan 1986 v2016';
-            titulo = 'Fondeo 1';
-            tituloShort = 'Fondeo 1';
+            titulo = 'Fondeo-1';
+            tituloShort = 'Fondeo1';
             break;
     }
 
