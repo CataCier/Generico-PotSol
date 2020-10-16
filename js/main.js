@@ -6,11 +6,11 @@ function main(carrera) {
     $("#materias").empty();
     let filename, titulo, tituloShort, plan;
     switch (carrera) {
-        case 'fondeo-1':
-            filename = 'data/fondeo-1.csv';
-            plan = 'Plan 1986 v2016';
-            titulo = 'fondeo-1';
-            tituloShort = 'fondeo-1';
+        case 'fondeo1':
+            filename = 'data/fondeo1.csv';
+            plan = 'Version 0';
+            titulo = 'fondeo1';
+            tituloShort = 'fondeo1';
             break;
     }
 
@@ -62,5 +62,5 @@ $(document).ready(function () {
             }
         })
     else
-        $("#fondeo-1").click()
+        $("#fondeo1").click()
 });
