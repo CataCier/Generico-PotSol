@@ -44,7 +44,7 @@ $(document).ready(function () {
     $('#clave-load').on('click', function () {
         let clave = $("#clave input").val();
         if (!clave) return;
-        window.location = "https://fdelmazo.github.io/FIUBA-Map?clave=" + clave;
+        window.location = "https://catacier.github.io/Generico-PotSol?clave=" + clave;
     });
 
     $('#clave input').on("keyup", function (event) {
