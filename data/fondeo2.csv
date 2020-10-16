@@ -26,9 +26,9 @@ codigo,materia,creditos,correlativas,categoria,nivel
 1.1.1,Propuesta de valor,0,1.1,Materias Electivas,4
 1.1.2,Canales posibles,0,1.1,Materias Electivas,4
 1.1.3,Donantes posibles,0,1.1,Materias Electivas,4
-1.2.1,Establecer métricas por canal,0,1.2,Materias Obligatorias,5
-1.2.2,Establecer objetivos por métricas,0,1.2,Materias Obligatorias,5
-1.2.3,Establecer accionables por métrica,0,1.2,Materias Obligatorias,5
+1.2.1,Establecer métricas por canal,0,1.2,Materias Electivas,5
+1.2.2,Establecer objetivos por métricas,0,1.2,Materias Electivas,5
+1.2.3,Establecer accionables por métrica,0,1.2,Materias Electivas,5
 1.3.1,Ejectuar accionables,0,1.3,Materias Electivas,6
 1.3.2,Analizar tendencia,0,1.3,Materias Electivas,6
 1.3.3,Ajustar plan de fondeo,0,1.3,Materias Electivas,6
