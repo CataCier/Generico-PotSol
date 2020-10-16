@@ -9,13 +9,13 @@ function main(carrera) {
         case 'fondeo1':
             filename = 'data/fondeo1.csv';
             plan = 'Demo';
-            titulo = 'fondeo1';
+            titulo = 'Fondeo 1';
             tituloShort = 'fondeo1';
             break;
         case 'fondeo2':
             filename = 'data/fondeo2.csv';
             plan = 'Demo';
-            titulo = 'fondeo2';
+            titulo = 'Fondeo 2';
             tituloShort = 'fondeo2';
             break;
     }
