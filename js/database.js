@@ -19,7 +19,7 @@ function loadMap(api, clave) {
     });
     if (!usuario) {
         warningSnackbar(clave);
-        $("#sistemas").click()
+        $("#fondeo1").click()
         return
     }
     let carrera = usuario.gsx$carrera.$t;
