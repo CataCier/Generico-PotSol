@@ -8,9 +8,15 @@ function main(carrera) {
     switch (carrera) {
         case 'fondeo1':
             filename = 'data/fondeo1.csv';
-            plan = 'Version 0';
+            plan = 'Demo';
             titulo = 'fondeo1';
             tituloShort = 'fondeo1';
+            break;
+        case 'fondeo2':
+            filename = 'data/fondeo2.csv';
+            plan = 'Demo';
+            titulo = 'fondeo2';
+            tituloShort = 'fondeo2';
             break;
     }
 
