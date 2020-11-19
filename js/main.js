@@ -25,10 +25,16 @@ function main(carrera) {
             tituloShort = 'principal';
             break;
         case 'captacion_y_alta':
-            filename = 'data/captacion_y_alta.csv.csv';
+            filename = 'data/captacion_y_alta.csv';
             plan = 'Demo';
             titulo = 'Captación y alta';
             tituloShort = 'captacion_y_alta';
+            break;
+        case 'estrategia_de_fondeo':
+            filename = 'data/estrategia_de_fondeo.csv';
+            plan = 'Demo';
+            titulo = 'Estrategia de Fondeo';
+            tituloShort = 'estrategia_de_fondeo';
             break;
     }
 
