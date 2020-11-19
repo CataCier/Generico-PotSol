@@ -116,5 +116,5 @@ $(document).ready(function () {
             }
         })
     else
-        $("#fondeo1").click()
+        $("#principal").click()
 });
