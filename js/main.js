@@ -18,6 +18,12 @@ function main(carrera) {
             titulo = 'Fondeo 2';
             tituloShort = 'fondeo2';
             break;
+        case 'principal':
+            filename = 'data/principal.csv';
+            plan = 'Demo';
+            titulo = 'Principal';
+            tituloShort = 'principal';
+            break;
     }
 
     $("#carrera-actual-long").text(titulo + ' | ' + plan);
