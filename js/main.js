@@ -45,8 +45,14 @@ function main(carrera) {
         case 'gestion_de_eventos':
             filename = 'data/gestion_de_eventos.csv';
             plan = 'Demo';
-            titulo = 'Gestión de eventos';
+            titulo = 'Gestión de Eventos';
             tituloShort = 'gestion_de_eventos';
+            break;
+        case 'gestion_de_programas':
+            filename = 'data/gestion_de_programas.csv';
+            plan = 'Demo';
+            titulo = 'Gestión de Programas';
+            tituloShort = 'gestion_de_programas';
             break;
     }
 
