@@ -1,6 +1,6 @@
 codigo,materia,creditos,correlativas,categoria,nivel
 0,Estrategía,0,,Materias Obligatorias,0
-1.,Estrategia de fondeo  ,0,0,Materias Obligatorias,1
+1.0,Estrategia de fondeo,0,0,Materias Obligatorias,1
 1.1,Estrategia,0,1.1,Materias Electivas,3
 1.2,Tablero de indicadores,0,1.2,Materias Electivas,4
 1.3,Seguimiento,0,1.3,Materias Electivas,5
