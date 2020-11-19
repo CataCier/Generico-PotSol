@@ -36,6 +36,12 @@ function main(carrera) {
             titulo = 'Estrategia de Fondeo';
             tituloShort = 'estrategia_de_fondeo';
             break;
+        case 'fidelizacion':
+            filename = 'data/fidelizacion.csv';
+            plan = 'Demo';
+            titulo = 'Fidelización';
+            tituloShort = 'fidelizacion';
+            break;
     }
 
     $("#carrera-actual-long").text(titulo + ' | ' + plan);
