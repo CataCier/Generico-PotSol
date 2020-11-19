@@ -4,11 +4,11 @@ codigo,materia,creditos,correlativas,categoria,nivel
 11.1,Estrategia,0,11.1,Materias Electivas,3
 11.2,Tablero de indicadores,0,11.2,Materias Electivas,4
 11.3,Seguimiento,0,11.3,Materias Electivas,5
-12,Gestión del donante,0,10,Materias Obligatorias,2
+12,Gestión del donante,0,11,Materias Obligatorias,2
 12.1,Captación,0,12,Materias Electivas,3
 12.2,Recepción y alta,0,12.1,Materias Electivas,4
 12.3,Fidelización del donante,0,12.2,Materias Electivas,5
-13,Gestión de eventos,0,10,Materias Obligatorias,2
+13,Gestión de eventos,0,11,Materias Obligatorias,2
 13.1,Desarrollo del evento,0,13,Materias Electivas,3
 13.2,Gestión de recursos necesarios,0,13.1,Materias Electivas,4
 13.3,Entrega del evento,0,13.2,Materias Electivas,5
