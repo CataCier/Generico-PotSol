@@ -1,35 +1,35 @@
 codigo,materia,creditos,correlativas,categoria,nivel
-0,Estrategía,0,,Materias Obligatorias,0
-1.0,Estrategia de fondeo,0,0,Materias Obligatorias,1
-1.1,Estrategia,0,1.1,Materias Electivas,3
-1.2,Tablero de indicadores,0,1.2,Materias Electivas,4
-1.3,Seguimiento,0,1.3,Materias Electivas,5
-2,Gestión del donante,0,0,Materias Obligatorias,2
-2.1,Captación,0,2,Materias Electivas,3
-2.2,Recepción y alta,0,2.1,Materias Electivas,4
-2.3,Fidelización del donante,0,2.2,Materias Electivas,5
-3,Gestión de eventos,0,0,Materias Obligatorias,2
-5.1,Desarrollo del evento,0,3,Materias Electivas,3
-5.2,Gestión de recursos necesarios,0,5.1,Materias Electivas,4
-5.3,Entrega del evento,0,5.2,Materias Electivas,5
-5.4,Finalizacion del evento,0,5.3,Materias Electivas,6
-4,Gestión de programas,0,0,Materias Obligatorias,1
-4.1,Desarrollo del programa,0,4,Materias Electivas,3
-4.2,Gestión del recursos,0,4.1,Materias Electivas,4
-4.3,Entrega del programa,0,4.2,Materias Electivas,5
-4.4,Evaluación,0,4.3,Materias Electivas,6
-5,Recursos Humanos,0,0,Materias Obligatorias,1
-5.1,Desarrollo del plan de RRHH,0,5,Materias Electivas,3
-5.2,Convocatoria y selección,0,5.1,Materias Electivas,4
-5.3,Incorporación y capacitación,0,5.2,Materias Electivas,5
-5.4,Desarrollo y mejora,0,5.3,Materias Electivas,6
-5.5,Compensación y administración,0,5.4,Materias Electivas,7
-6,Administración y finanzas,0,0,Materias Obligatorias,1
-6.1,Planificación administrativo financiera,0,6,Materias Electivas,3
-6.2,Procesos de compras,0,6.1,Materias Electivas,4
-6.3,Procesos de facturación y cobranzas,0,6.2,Materias Electivas,5
-6.4,Proceso de pago a proveedores,0,6.3,Materias Electivas,6
-6.5,Liquidación de sueldos,0,6.4,Materias Electivas,7
-6.6,Administración de tesorería,0,6.5,Materias Electivas,8
-6.7,Procesos contables,0,6.6,Materias Electivas,9
-6.8,Procesos legales,0,6.7,Materias Electivas,10
+10,Estrategía,0,,Materias Obligatorias,0
+11.0,Estrategia de fondeo,0,10,Materias Obligatorias,1
+11.1,Estrategia,0,11.1,Materias Electivas,3
+11.2,Tablero de indicadores,0,11.2,Materias Electivas,4
+11.3,Seguimiento,0,11.3,Materias Electivas,5
+12,Gestión del donante,0,10,Materias Obligatorias,2
+12.1,Captación,0,12,Materias Electivas,3
+12.2,Recepción y alta,0,12.1,Materias Electivas,4
+12.3,Fidelización del donante,0,12.2,Materias Electivas,5
+13,Gestión de eventos,0,10,Materias Obligatorias,2
+15.1,Desarrollo del evento,0,13,Materias Electivas,3
+15.2,Gestión de recursos necesarios,0,15.1,Materias Electivas,4
+15.3,Entrega del evento,0,15.2,Materias Electivas,5
+15.4,Finalizacion del evento,0,15.3,Materias Electivas,6
+14,Gestión de programas,0,10,Materias Obligatorias,1
+14.1,Desarrollo del programa,0,14,Materias Electivas,3
+14.2,Gestión del recursos,0,14.1,Materias Electivas,4
+14.3,Entrega del programa,0,14.2,Materias Electivas,5
+14.4,Evaluación,0,14.3,Materias Electivas,6
+15,Recursos Humanos,0,10,Materias Obligatorias,1
+15.1,Desarrollo del plan de RRHH,10,5,Materias Electivas,3
+15.2,Convocatoria y selección,0,15.1,Materias Electivas,4
+15.3,Incorporación y capacitación,0,15.2,Materias Electivas,5
+15.4,Desarrollo y mejora,0,15.3,Materias Electivas,6
+15.5,Compensación y administración,0,15.4,Materias Electivas,7
+16,Administración y finanzas,0,10,Materias Obligatorias,1
+16.1,Planificación administrativo financiera,0,16,Materias Electivas,3
+16.2,Procesos de compras,0,16.1,Materias Electivas,4
+16.3,Procesos de facturación y cobranzas,0,16.2,Materias Electivas,5
+16.4,Proceso de pago a proveedores,0,16.3,Materias Electivas,6
+16.5,Liquidación de sueldos,0,16.4,Materias Electivas,7
+16.6,Administración de tesorería,0,16.5,Materias Electivas,8
+16.7,Procesos contables,0,16.6,Materias Electivas,9
+16.8,Procesos legales,0,16.7,Materias Electivas,10
