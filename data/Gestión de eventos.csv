@@ -1,43 +1,43 @@
 codigo,materia,creditos,correlativas,categoria,nivel
-5.,Gesti髇 de eventos,0,,Materias Obligatorias,0
-5.1,Desarrollo del evento,0,5.,Materias Obligatorias,1
-5.1.1,Gobernante del evento,0,5.1,Materias Obligatorias,2
-5.1.1.1,Asignar responsables para cada evento y cada proceso principal,0,5.1.1,Materias Electivas,3
-5.1.2,Desarrollo de plan/estrategia del programa,0,5.1,Materias Obligatorias,2
-5.1.2.1,Definir los objetivos del evento,0,5.1.2,Materias Electivas,3
-5.1.2.2,Definir politicas/formas de trabajar para desarrollar con exito el evento  ,0,5.1.2.1,Materias Electivas,4
-5.1.2.3,Evaluar que recursos se necesitan y cuales estan disponibles,0,5.1.2.2,Materias Electivas,5
-5.1.2.4,Definir las etapas del proceso de evento,0,5.1.2.3,Materias Electivas,6
-5.1.2.5,Revisar y validar los procedimientos actuales de prestaci髇 del servicio,0,5.1.2.4,Materias Electivas,7
-5.1.2.6,Definir el lugar y fechas de la prestaci髇 del servicio,0,5.1.2.5,Materias Electivas,8
-5.1.3,Desarrollo de campa馻 de promocion del evento,0,5.1,Materias Obligatorias,2
-5.1.3.1,Definir el donante objetivo del evento,0,5.1.3,Materias Electivas,3
-5.1.3.2,Definir canal de captaci髇 objetivo a utilizar,0,5.1.3.1,Materias Electivas,4
-5.1.3.3,Definir plan de comunicaci髇 (anual, mensual, semanal, por dia, etc),0,5.1.3.2,Materias Electivas,5
-5.1.3.4,Lanzamiento de campa馻 de promoci髇 del evento,0,5.1.3.3,Materias Electivas,6
-5.1.3.5,Evaluaci髇 de efectividad de campa馻,0,5.1.3.4,Materias Electivas,7
-5.2,Gesti髇 de recursos necesarios,0,5.,Materias Obligatorias,1
-5.2.1,Plan de recursos necesarios,0,5.2,Materias Obligatorias,2
-5.2.1.1,Definir las habilidades humanas necesarias para desarrollar las actividades,0,5.2.1,Materias Electivas,3
-5.2.1.2,Establecer cuales son los proveedores y socios necesarios para desarrollar el servicio, y que necesidades se necesitan suplir,0,5.2.1.1,Materias Electivas,4
-5.2.1.3,Identificar los recursos criticos,0,5.2.1.2,Materias Electivas,5
-5.2.2,Capacitaciones de los rrhh (opcional),0,5.2,Materias Obligatorias,2
-5.2.2.1,Crear resumen detallado de que actividades son importantes para ense馻r. Definir quien va a dar la capacitaci髇. Definir dia y lugar d髇de debe ir el recurso.,0,5.2.2,Materias Electivas,3
-5.2.2.2,Desarrollar y establecer los materiales necesarios para brindar la capacitaci髇,0,5.2.2.1,Materias Electivas,4
-5.2.2.3,Verificar que la capacitaci髇 fue exitosa a traves de pruebas de administraci髇 y la aplicaci髇 de habilidades para uso pr醕tico,0,5.2.2.2,Materias Electivas,5
-5.2.2.4,Realizar encuesta de capacitaci髇 para analizar el grado de satisfaci髇,0,5.2.2.3,Materias Electivas,6
-5.3,Entrega del evento,0,5.,Materias Obligatorias,1
-5.3.1,Planificaci髇 del evento,0,5.3,Materias Obligatorias,2
-5.3.1.1,Organizar los aspectos t閏nicos del evento,0,5.3.1,Materias Electivas,3
-5.3.1.2,Revisar los t閞minos y preparar el servicio con partes involucradas,0,5.3.1.1,Materias Electivas,4
-5.3.3,Ejecuci髇,0,5.3,Materias Obligatorias,2
-5.3.3.1,Venta de las entradas y espacios publicitarios,0,5.3.3,Materias Electivas,3
-5.3.3.2,Desarrollo del evento,0,5.3.3.1,Materias Electivas,4
-5.4,Finalizacion del evento,0,5.,Materias Obligatorias,1
-5.4.1,Revisi髇 de todo el proceso de prestaci髇 del servicio para evaluar el exito del proyecto,0,5.4,Materias Obligatorias,2
-5.4.1.1,Asegurarse de que se reciban todos los pagos y se completen todas las actividades,0,5.4.1,Materias Electivas,3
-5.4.1.2,Confirmar que la organizaci髇 cumplio con todos los plazos,0,5.4.1.1,Materias Electivas,4
-5.4.1.3,Liberar a los recursos,0,5.4.1.2,Materias Electivas,5
-5.4.1.4,Garantizar y asegurarse de que todos los aspectos del proyecto (internos y externos) esten finalizados,0,5.4.1.3,Materias Electivas,6
-5.4.1.6,Actualizar todos los sistemas necesarios para reflejar la prestacion del servicio (netsuite y salesforce),0,5.4.1.4,Materias Electivas,7
-5.4.1.5,Encuesta de satisfacion del protagonista para sacar insights para mejora continua,0,5.4.1.6,Materias Electivas,8
+35.,Gesti贸n de eventos,0,,Materias Obligatorias,0
+35.1,Desarrollo del evento,0,35.,Materias Obligatorias,1
+35.1.1,Gobernante del evento,0,35.1,Materias Obligatorias,2
+35.1.1.1,Asignar responsables para cada evento y cada proceso principal,0,35.1.1,Materias Electivas,3
+35.1.2,Desarrollo de plan/estrategia del programa,0,35.1,Materias Obligatorias,2
+35.1.2.1,Definir los objetivos del evento,0,35.1.2,Materias Electivas,3
+35.1.2.2,Definir politicas/formas de trabajar para desarrollar con exito el evento,0,35.1.2.1,Materias Electivas,4
+35.1.2.3,Evaluar que recursos se necesitan y cuales estan disponibles,0,35.1.2.2,Materias Electivas,5
+35.1.2.4,Definir las etapas del proceso de evento,0,35.1.2.3,Materias Electivas,6
+35.1.2.5,Revisar y validar los procedimientos actuales de prestaci贸n del servicio,0,35.1.2.4,Materias Electivas,7
+35.1.2.6,Definir el lugar y fechas de la prestaci贸n del servicio,0,35.1.2.5,Materias Electivas,8
+35.1.3,Desarrollo de campa帽a de promocion del evento,0,35.1,Materias Obligatorias,2
+35.1.3.1,Definir el donante objetivo del evento,0,35.1.3,Materias Electivas,3
+35.1.3.2,Definir canal de captaci贸n objetivo a utilizar,0,35.1.3.1,Materias Electivas,4
+35.1.3.3,Definir plan de comunicaci贸n,0,35.1.3.2,Materias Electivas,5
+35.1.3.4,Lanzamiento de campa帽a de promoci贸n del evento,0,35.1.3.3,Materias Electivas,6
+35.1.3.5,Evaluaci贸n de efectividad de campa帽a,0,35.1.3.4,Materias Electivas,7
+35.2,Gesti贸n de recursos necesarios,0,35.,Materias Obligatorias,1
+35.2.1,Plan de recursos necesarios,0,35.2,Materias Obligatorias,2
+35.2.1.1,Definir las habilidades humanas necesarias para desarrollar las actividades,0,35.2.1,Materias Electivas,3
+35.2.1.2,Establecer cuales son los proveedores y socios necesarios para desarrollar el servicio, y que necesidades se necesitan suplir,0,35.2.1.1,Materias Electivas,4
+35.2.1.3,Identificar los recursos criticos,0,35.2.1.2,Materias Electivas,5
+35.2.2,Capacitaciones de los rrhh(opcional),0,35.2,Materias Obligatorias,2
+35.2.2.1,Crear resumen detallado de que actividades son importantes para ense帽ar. Definir Coordinador lugar y d铆a,0,35.2.2,Materias Electivas,3
+35.2.2.2,Desarrollar y establecer los materiales necesarios para brindar la capacitaci贸n,0,35.2.2.1,Materias Electivas,4
+35.2.2.3,Verificar que la capacitaci贸n fue exitosa a traves de pruebas de administraci贸n y la aplicaci贸n de habilidades para uso pr谩ctico,0,35.2.2.2,Materias Electivas,5
+35.2.2.4,Realizar encuesta de capacitaci贸n para analizar el grado de satisfaci贸n,0,35.2.2.3,Materias Electivas,6
+35.3,Entrega del evento,0,35.,Materias Obligatorias,1
+35.3.1,Planificaci贸n del evento,0,5.3,Materias Obligatorias,2
+35.3.1.1,Organizar los aspectos t茅cnicos del evento,0,35.3.1,Materias Electivas,3
+5.3.1.2,Revisar los t茅rminos y preparar el servicio con partes involucradas,0,35.3.1.1,Materias Electivas,4
+35.3.3,Ejecuci贸n,0,35.3,Materias Obligatorias,2
+35.3.3.1,Venta de las entradas y espacios publicitarios,0,35.3.3,Materias Electivas,3
+35.3.3.2,Desarrollo del evento,0,35.3.3.1,Materias Electivas,4
+35.4,Finalizacion del evento,0,35.,Materias Obligatorias,1
+35.4.1,Revisi贸n de todo el proceso de prestaci贸n del servicio para evaluar el exito del proyecto,0,35.4,Materias Obligatorias,2
+35.4.1.1,Asegurarse de que se reciban todos los pagos y se completen todas las actividades,0,35.4.1,Materias Electivas,3
+35.4.1.2,Confirmar que la organizaci贸n cumplio con todos los plazos,0,35.4.1.1,Materias Electivas,4
+35.4.1.3,Liberar a los recursos,0,35.4.1.2,Materias Electivas,5
+35.4.1.4,Garantizar y asegurarse de que todos los aspectos del proyecto (internos y externos) esten finalizados,0,35.4.1.3,Materias Electivas,6
+35.4.1.6,Actualizar todos los sistemas necesarios para reflejar la prestacion del servicio (netsuite y salesforce),0,35.4.1.4,Materias Electivas,7
+35.4.1.5,Encuesta de satisfacion del protagonista para sacar insights para mejora continua,0,35.4.1.6,Materias Electivas,8
