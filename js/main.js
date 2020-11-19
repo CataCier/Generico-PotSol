@@ -42,6 +42,12 @@ function main(carrera) {
             titulo = 'Fidelización';
             tituloShort = 'fidelizacion';
             break;
+        case 'gestion_de_eventos':
+            filename = 'data/gestion_de_eventos.csv';
+            plan = 'Demo';
+            titulo = 'Gestión de eventos';
+            tituloShort = 'gestion_de_eventos';
+            break;
     }
 
     $("#carrera-actual-long").text(titulo + ' | ' + plan);
