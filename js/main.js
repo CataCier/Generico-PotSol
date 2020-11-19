@@ -24,6 +24,12 @@ function main(carrera) {
             titulo = 'Principal';
             tituloShort = 'principal';
             break;
+        case 'captacion_y_alta':
+            filename = 'data/captacion_y_alta.csv.csv';
+            plan = 'Demo';
+            titulo = 'Captación y alta';
+            tituloShort = 'captacion_y_alta';
+            break;
     }
 
     $("#carrera-actual-long").text(titulo + ' | ' + plan);
