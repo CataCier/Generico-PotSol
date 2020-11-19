@@ -1,56 +1,56 @@
 codigo,materia,creditos,correlativas,categoria,nivel
-1,Gesti髇 del donante,0,,Materias Obligatorias,0
-3,Captaci髇,0,1,Materias Obligatorias,1
-3.1,Objetivo de campa馻,0,3,Materias Obligatorias,2
-3.1.1,Definir donante objetivo,0,3.1,Materias Electivas,3
-3.1.2,Definir Monto objetivo,0,3.1.1,Materias Electivas,4
-3.2,Plan de Comunicaci髇,0,3.1,Materias Obligatorias,3
-3.2.1,Definir Canales,0,3.2,Materias Electivas,4
-3.2.2,Preparar informaci髇 necesaria,0,3.2.1,Materias Electivas,5
-3.2.2.1,Armar flyers,0,,Materias Electivas,
-3.2.1.2,Reunir informaci髇 para aplicar a concursos,0,,Materias Electivas,
-3.2.1.3,Campa馻s de aumento de cuota,0,,Materias Electivas,
-3.3,Contacto a donantes,0,3.2,Materias Obligatorias,4
-3.3.1,Ejecutar contacto,0,3.3,Materias Electivas,5
-3.4,Analisis de resultados,0,3.3,Materias Obligatorias,5
-3.4.1,Establecer par醡etros de control de campa馻,0,3.4,Materias Electivas,6
-3.4.2,Analizar resultados,0,3.4.1,Materias Electivas,7
-3.4.3,Generar hip髏esis de resultados,0,3.4.2,Materias Electivas,8
-3.5,Comunicaci髇 de resultados,0,3.4,Materias Obligatorias,6
-3.5.1,Comunicaci髇 interna a la gerencia,0,3.5,Materias Electivas,7
-3.5.2,Coordinar comunicaci髇 externa,0,3.5.1,Materias Electivas,8
-4,Recepci髇 y alta,0,1,Materias Obligatorias,1
-4.1,Recepci髇 del donante,0,4,Materias Obligatorias,2
-4.1.1,Recibir donante,0,4.1,Materias Electivas,3
-4.1.2,Solicitar informaci髇 de contacto,0,4.1.1,Materias Electivas,4
-4.1.3,Solicitar Informaci髇 de cobranza,0,4.1.2,Materias Electivas,5
-4.2,Alta del donante,0,4.1,Materias Obligatorias,3
-4.2.1,Dar de alta al donante en el sistema,0,4.2,Materias Electivas,4
-6,Fidelizaci髇 del donante,0,1,Materias Obligatorias,1
-6.1,Estrategia de comunicaci髇 para la fidelizaci髇,0,6,Materias Obligatorias,2
-6.1.1,Establecer objetivo y destinatario,0,6.1,Materias Electivas,3
-6.1.2,Establecer canal,0,6.1.1,Materias Electivas,4
-6.1.3,Detallar habilidades y pol韙icas,0,6.1.2,Materias Electivas,5
-6.2,Plan de acci髇,0,6.1,Materias Obligatorias,3
-6.2.1,Asignar responsable,0,6.2,Materias Electivas,4
-6.2.2,Crear comunicaci髇,0,6.2.1,Materias Electivas,5
-6.2.2.1,Definir las etapas del proceso de fidelizaci髇,0,,Materias Electivas,
-6.2.2.2,Definir cronograma de comunicaci髇,0,,Materias Electivas,
-6.2.3,Ejecutar proceso de fidelizaci髇,0,6.2.2,Materias Electivas,6
-6.2.3.1,Enviar Comunicaci髇,0,,Materias Electivas,
-6.2.3.2,Gestionar y controlar el cumplimiento de la fidelizaci髇,0,,Materias Electivas,
-6.3,Atenci髇 de consultas,0,6.2,Materias Obligatorias,4
-6.3.1.,Definir responsable,0,6.3,Materias Electivas,5
-6.3.2,Recibir consulta,0,6.3.1.,Materias Electivas,6
-6.3.3,Analizar y encontrar soluci髇,0,6.3.2,Materias Electivas,7
-6.3.4,Responder consulta,0,6.3.3,Materias Electivas,8
-6.3.5,Identificar oportunidad de replicar la soluci髇,0,6.3.4,Materias Electivas,9
-6.4,Evaluaci髇,0,6.3,Materias Obligatorias,5
-6.4.1,Evaluar estado,0,6.4,Materias Electivas,6
-6.4.1.1,Evaluaci髇 de cumplimiento de objetivos propuestos por agente,0,,Materias Electivas,
-6.4.2,Evaluar satisfacci髇 del Donante,0,6.4.1,Materias Electivas,7
-6.4.2.1,Crear y enviar retroalimentaci髇 para evaluar satisfacci髇 de los donantes,0,,Materias Electivas,
-6.4.3,Analizar resultados,0,6.4.2,Materias Electivas,8
-6.4.3.1,Analizar la informaci髇 obtenida en los puntos anteriores e identificar puntos de mejora,0,,Materias Electivas,
-6.4.4,Comunicar resultados,0,6.4.3,Materias Electivas,9
-6.4.4.1,Comunicar resultados a la gesti髇,0,,Materias Electivas,
+21,Gesti贸n del donante,0,,Materias Obligatorias,0
+23,Captaci贸n,0,21,Materias Obligatorias,1
+23.1,Objetivo de campa帽a,0,23,Materias Obligatorias,2
+23.1.1,Definir donante objetivo,0,23.1,Materias Electivas,3
+23.1.2,Definir Monto objetivo,0,23.1.1,Materias Electivas,4
+23.2,Plan de Comunicaci贸n,0,23.1,Materias Obligatorias,3
+23.2.1,Definir Canales,0,23.2,Materias Electivas,4
+23.2.2,Preparar informaci贸n necesaria,0,23.2.1,Materias Electivas,5
+23.2.2.1,Armar flyers,0,23.2.2,Materias Electivas,
+23.2.1.2,Reunir informaci贸n para aplicar a concursos,0,23.2.1.2,Materias Electivas,
+23.2.1.3,Campa帽as de aumento de cuota,0,23.2.1.2,Materias Electivas,
+23.3,Contacto a donantes,0,23.2,Materias Obligatorias,4
+23.3.1,Ejecutar contacto,0,23.3,Materias Electivas,5
+23.4,Analisis de resultados,0,23.3,Materias Obligatorias,5
+23.4.1,Establecer par谩metros de control de campa帽a,0,23.4,Materias Electivas,6
+23.4.2,Analizar resultados,0,23.4.1,Materias Electivas,7
+23.4.3,Generar hip贸tesis de resultados,0,23.4.2,Materias Electivas,8
+23.5,Comunicaci贸n de resultados,0,23.4,Materias Obligatorias,6
+23.5.1,Comunicaci贸n interna a la gerencia,0,23.5,Materias Electivas,7
+23.5.2,Coordinar comunicaci贸n externa,0,23.5.1,Materias Electivas,8
+24,Recepci贸n y alta,0,21,Materias Obligatorias,1
+24.1,Recepci贸n del donante,0,24,Materias Obligatorias,2
+24.1.1,Recibir donante,0,24.1,Materias Electivas,3
+24.1.2,Solicitar informaci贸n de contacto,0,24.1.1,Materias Electivas,4
+24.1.3,Solicitar Informaci贸n de cobranza,0,24.1.2,Materias Electivas,5
+24.2,Alta del donante,0,24.1,Materias Obligatorias,3
+24.2.1,Dar de alta al donante en el sistema,0,24.2,Materias Electivas,4
+26,Fidelizaci贸n del donante,0,21,Materias Obligatorias,1
+26.1,Estrategia de comunicaci贸n para la fidelizaci贸n,0,26,Materias Obligatorias,2
+26.1.1,Establecer objetivo y destinatario,0,26.1,Materias Electivas,3
+26.1.2,Establecer canal,0,26.1.1,Materias Electivas,4
+26.1.3,Detallar habilidades y pol铆ticas,0,26.1.2,Materias Electivas,5
+26.2,Plan de acci贸n,0,26.1,Materias Obligatorias,3
+26.2.1,Asignar responsable,0,26.2,Materias Electivas,4
+26.2.2,Crear comunicaci贸n,0,26.2.1,Materias Electivas,5
+26.2.2.1,Definir las etapas del proceso de fidelizaci贸n,0,26.2.2,Materias Electivas,
+26.2.2.2,Definir cronograma de comunicaci贸n,0,26.2.2.1,Materias Electivas,
+26.2.3,Ejecutar proceso de fidelizaci贸n,0,26.2.2,Materias Electivas,6
+26.2.3.1,Enviar Comunicaci贸n,0,26.2.3,Materias Electivas,
+26.2.3.2,Gestionar y controlar el cumplimiento de la fidelizaci贸n,0,26.2.3.2,Materias Electivas,
+26.3,Atenci贸n de consultas,0,26.2,Materias Obligatorias,4
+26.3.1.,Definir responsable,0,26.3,Materias Electivas,5
+26.3.2,Recibir consulta,0,26.3.1.,Materias Electivas,6
+26.3.3,Analizar y encontrar soluci贸n,0,26.3.2,Materias Electivas,7
+26.3.4,Responder consulta,0,26.3.3,Materias Electivas,8
+26.3.5,Identificar oportunidad de replicar la soluci贸n,0,26.3.4,Materias Electivas,9
+26.4,Evaluaci贸n,0,26.3,Materias Obligatorias,5
+26.4.1,Evaluar estado,0,26.4,Materias Electivas,6
+26.4.1.1,Evaluaci贸n de cumplimiento de objetivos propuestos por agente,0,26.4.1,Materias Electivas,
+26.4.2,Evaluar satisfacci贸n del Donante,0,26.4.1,Materias Electivas,7
+26.4.2.1,Crear y enviar retroalimentaci贸n para evaluar satisfacci贸n de los donantes,0,26.4.2,Materias Electivas,
+26.4.3,Analizar resultados,0,26.4.2,Materias Electivas,8
+26.4.3.1,Analizar la informaci贸n obtenida en los puntos anteriores e identificar puntos de mejora,0,26.4.3,Materias Electivas,
+26.4.4,Comunicar resultados,0,26.4.3,Materias Electivas,9
+26.4.4.1,Comunicar resultados a la gesti贸n,0,26.4.4,Materias Electivas,
