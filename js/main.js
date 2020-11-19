@@ -54,6 +54,18 @@ function main(carrera) {
             titulo = 'Gestión de Programas';
             tituloShort = 'gestion_de_programas';
             break;
+        case 'gestion_del_donante':
+            filename = 'data/gestion_del_donante.csv';
+            plan = 'Demo';
+            titulo = 'Gestión del Donante';
+            tituloShort = 'gestion_del_donante';
+            break;
+        case 'rrhh':
+            filename = 'data/rrhh.csv';
+            plan = 'Demo';
+            titulo = 'RRHH';
+            tituloShort = 'rrhh';
+            break;
     }
 
     $("#carrera-actual-long").text(titulo + ' | ' + plan);
