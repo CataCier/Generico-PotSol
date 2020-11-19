@@ -1,9 +1,9 @@
 codigo,materia,creditos,correlativas,categoria,nivel
 10,Estrategía,0,,Materias Obligatorias,0
 11.0,Estrategia de fondeo,0,10,Materias Obligatorias,1
-11.1,Estrategia,0,11.1,Materias Electivas,3
-11.2,Tablero de indicadores,0,11.2,Materias Electivas,4
-11.3,Seguimiento,0,11.3,Materias Electivas,5
+11.1,Estrategia,0,11,Materias Electivas,3
+11.2,Tablero de indicadores,0,11.1,Materias Electivas,4
+11.3,Seguimiento,0,11.2,Materias Electivas,5
 12,Gestión del donante,0,11,Materias Obligatorias,2
 12.1,Captación,0,12,Materias Electivas,3
 12.2,Recepción y alta,0,12.1,Materias Electivas,4
@@ -19,7 +19,7 @@ codigo,materia,creditos,correlativas,categoria,nivel
 14.3,Entrega del programa,0,14.2,Materias Electivas,5
 14.4,Evaluación,0,14.3,Materias Electivas,6
 15,Recursos Humanos,0,10,Materias Obligatorias,1
-15.1,Desarrollo del plan de RRHH,10,5,Materias Electivas,3
+15.1,Desarrollo del plan de RRHH,10,15,Materias Electivas,3
 15.2,Convocatoria y selección,0,15.1,Materias Electivas,4
 15.3,Incorporación y capacitación,0,15.2,Materias Electivas,5
 15.4,Desarrollo y mejora,0,15.3,Materias Electivas,6
