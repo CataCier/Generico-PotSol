@@ -1,27 +1,27 @@
 codigo,materia,creditos,correlativas,categoria,nivel
-1,Recursos Humanos,0,,Materias Obligatorias,0
-2,Desarrollo del plan de RRHH,0,1,Materias Obligatorias,1
-2.1,Identificaci髇 de las necesidades de la organizaci髇.,0,2,Materias Obligatorias,2
-2.2,Definici髇 de las posiciones y respondibilidad.,0,2.1,Materias Obligatorias,3
-2.3,Identificaci髇 las habilidades profesionales necesarias.,0,2.2,Materias Obligatorias,4
-2.4,Desarrollo de una estrategia de compensaci髇,0,2.3,Materias Obligatorias,5
-3,Convocatoria y selecci髇,0,1,Materias Obligatorias,1
-3.1,Caracterizaci髇 la posici髇 y apertura de la vacante.,0,3,Materias Obligatorias,2
-3.2,Publicaci髇 y difuci髇 por m鷏tiples canales.,0,3.1,Materias Obligatorias,3
-3.3,Evaluaci髇 de las aplicaciones.,0,3.2,Materias Obligatorias,4
-3.4,Selecci髇 de nuevo empleado.,0,3.3,Materias Obligatorias,5
-4,Incorporaci髇 y capacitaci髇,0,1,Materias Obligatorias,1
-4.1,Introduci髇 a los miembros de la organizaci髇,0,4,Materias Obligatorias,2
-4.2,Orientaci髇 y capacitaci髇 inicial.,0,4.1,Materias Obligatorias,3
-4.3,Defici髇 de objetivos de la posici髇.,0,4.2,Materias Obligatorias,4
-5,Desarrollo y mejora,0,1,Materias Obligatorias,1
-5.1,Evaluaci髇 de desempe駉 en base a objetivos.,0,5,Materias Obligatorias,2
-5.2,Desarrollo de propuestas de mejora para el personal.,0,5.1,Materias Obligatorias,3
-5.3,Definici髇 de oportunidades de desarrollo.,0,5.2,Materias Obligatorias,4
-5.4,Definici髇 de oportunidades de motivaci髇.,0,5.3,Materias Obligatorias,5
-6,Compensaci髇 y administraci髇,0,1,Materias Obligatorias,1
-6.1,Desarrollo de la estructura de salarios.,0,6,Materias Obligatorias,2
-6.2,Desarrollo de la estructura de beneficios.,0,6.1,Materias Obligatorias,3
-6.3,Mantenimiento de la informaci髇 de los empleados.,0,6.2,Materias Obligatorias,4
-6.4,Mantenimiento de la n髆ina de salarios y beneficios.,0,6.3,Materias Obligatorias,5
-6.5,Registro de servicios realizados ,0,6.4,Materias Obligatorias,6
+51,Recursos Humanos,0,,Materias Obligatorias,0
+52,Desarrollo del plan de RRHH,0,51,Materias Obligatorias,1
+52.1,Identificaci贸n de las necesidades de la organizaci贸n.,0,52,Materias Obligatorias,2
+52.2,Definici贸n de las posiciones y respondibilidad.,0,52.1,Materias Obligatorias,3
+52.3,Identificaci贸n las habilidades profesionales necesarias.,0,52.2,Materias Obligatorias,4
+52.4,Desarrollo de una estrategia de compensaci贸n,0,52.3,Materias Obligatorias,5
+53,Convocatoria y selecci贸n,0,51,Materias Obligatorias,1
+53.1,Caracterizaci贸n la posici贸n y apertura de la vacante.,0,53,Materias Obligatorias,2
+53.2,Publicaci贸n y difuci贸n por m煤ltiples canales.,0,53.1,Materias Obligatorias,3
+53.3,Evaluaci贸n de las aplicaciones.,0,53.2,Materias Obligatorias,4
+53.4,Selecci贸n de nuevo empleado.,0,53.3,Materias Obligatorias,5
+54,Incorporaci贸n y capacitaci贸n,0,51,Materias Obligatorias,1
+54.1,Introduci贸n a los miembros de la organizaci贸n,0,54,Materias Obligatorias,2
+54.2,Orientaci贸n y capacitaci贸n inicial.,0,54.1,Materias Obligatorias,3
+54.3,Defici贸n de objetivos de la posici贸n.,0,54.2,Materias Obligatorias,4
+55,Desarrollo y mejora,0,51,Materias Obligatorias,1
+55.1,Evaluaci贸n de desempe帽o en base a objetivos.,0,55,Materias Obligatorias,2
+55.2,Desarrollo de propuestas de mejora para el personal.,0,55.1,Materias Obligatorias,3
+55.3,Definici贸n de oportunidades de desarrollo.,0,55.2,Materias Obligatorias,4
+55.4,Definici贸n de oportunidades de motivaci贸n.,0,55.3,Materias Obligatorias,5
+56,Compensaci贸n y administraci贸n,0,51,Materias Obligatorias,1
+56.1,Desarrollo de la estructura de salarios.,0,56,Materias Obligatorias,2
+56.2,Desarrollo de la estructura de beneficios.,0,56.1,Materias Obligatorias,3
+56.3,Mantenimiento de la informaci贸n de los empleados.,0,56.2,Materias Obligatorias,4
+56.4,Mantenimiento de la n贸mina de salarios y beneficios.,0,56.3,Materias Obligatorias,5
+56.5,Registro de servicios realizados ,0,56.4,Materias Obligatorias,6
