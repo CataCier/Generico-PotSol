@@ -8,7 +8,7 @@ codigo,materia,creditos,correlativas,categoria,nivel
 3.2.2,Preparar información necesaria,0,3.2.1,Materias Electivas,5
 3.2.2.1,Armar flyers,0,3.2.2,Materias Electivas,6
 3.2.1.2,Reunir información para aplicar a concursos,0,3.2.2.1,Materias Electivas,7
-3.2.1.3,Campañas de aumento de cuota,0,3.2.2.2,Materias Electivas,8
+3.2.1.3,Campañas de aumento de cuota,0,3.2.1.2,Materias Electivas,8
 3.3,Contacto a donantes,0,3.2,Materias Obligatorias,4
 3.3.1,Ejecutar contacto,0,3.3,Materias Electivas,5
 3.4,Analisis de resultados,0,3.3,Materias Obligatorias,5
@@ -22,6 +22,6 @@ codigo,materia,creditos,correlativas,categoria,nivel
 4.1,Recepción del donante,0,4,Materias Obligatorias,1
 4.1.1,Recibir donante,0,4.1,Materias Electivas,2
 4.1.2,Solicitar información de contacto,0,4.1.1,Materias Electivas,3
-4.1.3,Solicitar Información de cobranza,0,4.1.2,Materias Electivass,4
+4.1.3,Solicitar Información de cobranza,0,4.1.2,Materias Electivas,4
 4.2,Alta del donante,0,4.1,Materias Obligatorias,1
 4.2.1,Dar de alta al donante en el sistema,0,4.2,Materias Electivas,2
