@@ -27,7 +27,7 @@ codigo,materia,creditos,correlativas,categoria,nivel
 35.2.2.3,Verificar que la capacitación fue exitosa a traves de pruebas de administración y la aplicación de habilidades para uso práctico,0,35.2.2.2,Materias Electivas,5
 35.2.2.4,Realizar encuesta de capacitación para analizar el grado de satisfación,0,35.2.2.3,Materias Electivas,6
 35.3,Entrega del evento,0,35.,Materias Obligatorias,1
-35.3.1,Planificación del evento,0,5.3,Materias Obligatorias,2
+35.3.1,Planificación del evento,0,35.3,Materias Obligatorias,2
 35.3.1.1,Organizar los aspectos técnicos del evento,0,35.3.1,Materias Electivas,3
 5.3.1.2,Revisar los términos y preparar el servicio con partes involucradas,0,35.3.1.1,Materias Electivas,4
 35.3.3,Ejecución,0,35.3,Materias Obligatorias,2
