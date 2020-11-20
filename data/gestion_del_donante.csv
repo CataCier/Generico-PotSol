@@ -8,7 +8,7 @@ codigo,materia,creditos,correlativas,categoria,nivel
 23.2.1,Definir Canales,0,23.2,Materias Electivas,4
 23.2.2,Preparar información necesaria,0,23.2.1,Materias Electivas,5
 23.2.2.1,Armar flyers,0,23.2.2,Materias Electivas,6
-23.2.1.2,Reunir información para aplicar a concursos,0,23.2.1.2,Materias Electivas,7
+23.2.1.2,Reunir información para aplicar a concursos,0,23.2.1.1,Materias Electivas,7
 23.2.1.3,Campañas de aumento de cuota,0,23.2.1.2,Materias Electivas,8
 23.3,Contacto a donantes,0,23.2,Materias Obligatorias,4
 23.3.1,Ejecutar contacto,0,23.3,Materias Electivas,5
@@ -38,7 +38,7 @@ codigo,materia,creditos,correlativas,categoria,nivel
 26.2.2.2,Definir cronograma de comunicación,0,26.2.2.1,Materias Electivas,7
 26.2.3,Ejecutar proceso de fidelización,0,26.2.2,Materias Electivas,6
 26.2.3.1,Enviar Comunicación,0,26.2.3,Materias Electivas,7
-26.2.3.2,Gestionar y controlar el cumplimiento de la fidelización,0,26.2.3.2,Materias Electivas,8
+26.2.3.2,Gestionar y controlar el cumplimiento de la fidelización,0,26.2.3.1,Materias Electivas,8
 26.3,Atención de consultas,0,26.2,Materias Obligatorias,4
 26.3.1.,Definir responsable,0,26.3,Materias Electivas,5
 26.3.2,Recibir consulta,0,26.3.1.,Materias Electivas,6
