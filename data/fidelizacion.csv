@@ -13,8 +13,8 @@ codigo,materia,creditos,correlativas,categoria,nivel
 6.2.3.1,Enviar Comunicación,0,6.2.3,Materias Electivas,7
 6.2.3.2,Gestionar y controlar el cumplimiento de la fidelización,0,6.2.3.1,Materias Electivas,8
 6.3,Atención de consultas,0,6.2,Materias Obligatorias,4
-6.3.1.,Definir responsable,0,6.3,Materias Electivas,5
-6.3.2,Recibir consulta,0,6.3.1.,Materias Electivass,6
+6.3.1,Definir responsable,0,6.3,Materias Electivas,5
+6.3.2,Recibir consulta,0,6.3.1,Materias Electivas,6
 6.3.3,Analizar y encontrar solución,0,6.3.2,Materias Electivas,7
 6.3.4,Responder consulta,0,6.3.3,Materias Electivas,8
 6.3.5,Identificar oportunidad de replicar la solución,0,6.3.4,Materias Electivas,9
