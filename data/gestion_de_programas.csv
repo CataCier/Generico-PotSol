@@ -16,12 +16,12 @@ codigo,materia,creditos,correlativas,categoria,nivel
 45.1.3.3,Definir plan de comunicaciones,0,45.1.3.2,Materias Electivas,5
 45.1.3.4,Lanzamiento de campaña de captación de beneficiarios,0,45.1.3.3,Materias Electivas,6
 45.1.3.5,Evaluación de efectividad de campaña,0,45.1.3.4,Materias Electivas,7
-45.2,Gestión de recursos necesarios para la entrega programa,0,45,Materias Obligatorias,1
+45.2,Gestión de recursos necesarios,0,45,Materias Obligatorias,1
 45.2.1,Plan de recursos necesarios,0,45.2,Materias Obligatorias,2
 45.2.1.1,Definir las habilidades humanas necesarias para desarrollar las actividades,0,45.2.1,Materias Electivas,3
 45.2.1.2,Establecer cuales son los proveedores y socios necesarios para desarrollar el servicio,0,45.2.1.1,Materias Electivas,4
 45.2.1.3,Identificar los recursos criticos,0,45.2.1.2,Materias Electivas,5
-45.2.2,Capacitacion de los rrhh que participan del programa (OPCIONAL SEGÚN APLICA O NO),0,45.2,Materias Obligatorias,2
+45.2.2,Capacitacion de los rrhh que participan del programa (Op),0,45.2,Materias Obligatorias,2
 45.2.2.1,Crear resumen detallado de que actividades son importantes para enseñar. Definir coordinador día y lugar,0,45.2.2,Materias Electivas,3
 45.2.2.2,Desarrollar y establecer los materiales necesarios para brindar la capacitacion,0,45.2.2.1,Materias Electivas,4
 45.2.2.3,Verificar que la capacitación fue exitosa a traves de pruebas de administración y la aplicación de habilidades para uso practico,0,45.2.2.2,Materias Electivas,5
@@ -43,12 +43,12 @@ codigo,materia,creditos,correlativas,categoria,nivel
 45.3.3.7,Identificar seleccionar y asignar recursos,0,45.3.3.6,Materias Electivas,9
 45.3.3.8,Revisar procesos,0,45.3.3.7,Materias Electivas,10
 45.3.3.9,Obtener aprobacion del cliente,0,45.3.3.8,Materias Electivas,11
-45.3.4,Ejecutar entrega del programa (ADAPTABLE SEGÚN CADA PROGRAMA),0,45.3,Materias Obligatorias,2
+45.3.4,Ejecutar entrega del programa,0,45.3,Materias Obligatorias,2
 45.3.4.1,Hacer construir/comprar solución,0,45.3.4,Materias Electivas,3
 45.3.4.2,Implementar la solución,0,45.3.4.1,Materias Electivas,4
 45.4,Evaluación del programa,0,45,Materias Obligatorias,1
 45.4.1,Seguimiento de proyectos,0,45.4,Materias Obligatorias,2
-45.4.1.1,Desarrollar estrategia de seguimiento del proyecto (OPCIONAL SEGÚN SI APLICA O NO),0,45.4.1,Materias Electivas,3
+45.4.1.1,Desarrollar estrategia de seguimiento del proyecto (Op),0,45.4.1,Materias Electivas,3
 45.4.1.1.1,Definir objetivos del seguimiento,0,45.4.1.1,Materias Electivas,4
 45.4.1.1.2,Definir tipo destinatario,0,45.4.1.1.1,Materias Electivas,5
 45.4.1.1.3,Definir politicas/formas de trabajar para desarrollar con exito el seguimiento,0,45.4.1.1.2,Materias Electivas,6
@@ -56,7 +56,7 @@ codigo,materia,creditos,correlativas,categoria,nivel
 45.4.1.1.5,Asignar responsable,0,45.4.1.1.4,Materias Electivas,8
 45.4.1.1.6,Definir las etapas del proceso del seguimiento,0,45.4.1.1.5,Materias Electivas,9
 45.4.1.1.7,Definir cronograma de seguimientos,0,45.4.1.1.6,Materias Electivas,10
-45.4.1.2,Ejecución de seguimiento (OPCIONAL SEGÚN SI APLICA O NO),0,45.4.1.1.7,Materias Electivas,11
+45.4.1.2,Ejecución de seguimiento (Op),0,45.4.1.1.7,Materias Electivas,11
 45.4.1.2.1,Ejecutar proceso de seguimiento,0,45.4.1.2,Materias Electivas,12
 45.4.1.2.2,Gestionar y controlar el cumplimiento del seguimiento,0,45.4.1.2.1,Materias Electivas,13
 45.4.1.3,Evaluar satisfacción del protagonista con el programa (OBLIGATORIO),0,45.4.1.2.2,Materias Electivas,14
@@ -64,10 +64,10 @@ codigo,materia,creditos,correlativas,categoria,nivel
 45.4.1.3.2,Solicitar retroalimentación sobre manejo y resolución de consultas,0,45.4.1.3.1,Materias Electivas,16
 45.4.1.3.3,Analizar datos e identificar oportunidades de mejora,0,45.4.1.3.2,Materias Electivas,17
 45.4.1.3.4,Proporcionar comentarios a la gestión para mejorar experiencia,0,45.4.1.3.3,Materias Electivas,18
-45.4.2,Finalizacion del programa o una de sus partes (APLICABLE A PROGRAMAS CON CIERRE),0,45.4,Materias Obligatorias,2
+45.4.2,Finalizacion del programa o una de sus partes (Si aplica),0,45.4,Materias Obligatorias,2
 45.4.2.1,Revisar todo el proceso de prestacion del servicio para evaluar el exito del programa,0,45.4.2,Materias Electivas,3
 45.4.2.2,Asegurarse de que se reciban todos los pagos y se completen todas las actividades,0,45.4.2.1,Materias Electivas,4
 45.4.2.3,Confirmar que la organización cumplio con todos los plazos,0,45.4.2.2,Materias Electivas,5
-5.4.2.4,Liberar a los recursos ocupados,0,45.4.2.3,Materias Electivas,6
-5.4.2.5,Garantizar y asegurarse de que todos los aspectos del proyecto (internos y externos) esten finalizados,0,45.4.2.4,Materias Electivas,7
-5.4.2.6,Actualizar todos los sistemas necesarios para reflejar la prestacion del servcio,0,45.4.2.5,Materias Electivas,8
+45.4.2.4,Liberar a los recursos ocupados,0,45.4.2.3,Materias Electivas,6
+45.4.2.5,Garantizar y asegurarse de que todos los aspectos del proyecto (internos y externos) esten finalizados,0,45.4.2.4,Materias Electivas,7
+45.4.2.6,Actualizar todos los sistemas necesarios para reflejar la prestacion del servcio,0,45.4.2.5,Materias Electivas,8
