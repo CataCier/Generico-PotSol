@@ -1,35 +1,35 @@
 codigo,materia,creditos,correlativas,categoria,nivel
 10,Estrategía,0,,Materias Obligatorias,0
 11,Estrategia de fondeo,0,10,Materias Obligatorias,1
-11.1,Estrategia,0,11,Materias Electivas,3
-11.2,Tablero de indicadores,0,11.1,Materias Electivas,4
-11.3,Seguimiento,0,11.2,Materias Electivas,5
+11.1,Estrategia,0,11,Materias Electivass,3
+11.2,Tablero de indicadores,0,11.1,Materias Electivass,4
+11.3,Seguimiento,0,11.2,Materias Electivass,5
 12,Gestión del donante,0,11,Materias Obligatorias,2
-12.1,Captación,0,12,Materias Electivas,3
-12.2,Recepción y alta,0,12.1,Materias Electivas,4
-12.3,Fidelización del donante,0,12.2,Materias Electivas,5
+12.1,Captación,0,12,Materias Electivass,3
+12.2,Recepción y alta,0,12.1,Materias Electivass,4
+12.3,Fidelización del donante,0,12.2,Materias Electivass,5
 13,Gestión de eventos,0,11,Materias Obligatorias,2
-13.1,Desarrollo del evento,0,13,Materias Electivas,3
-13.2,Gestión de recursos necesarios,0,13.1,Materias Electivas,4
-13.3,Entrega del evento,0,13.2,Materias Electivas,5
-13.4,Finalizacion del evento,0,13.3,Materias Electivas,6
+13.1,Desarrollo del evento,0,13,Materias Electivass,3
+13.2,Gestión de recursos necesarios,0,13.1,Materias Electivass,4
+13.3,Entrega del evento,0,13.2,Materias Electivass,5
+13.4,Finalizacion del evento,0,13.3,Materias Electivass,6
 14,Gestión de programas,0,10,Materias Obligatorias,1
-14.1,Desarrollo del programa,0,14,Materias Electivas,3
-14.2,Gestión del recursos,0,14.1,Materias Electivas,4
-14.3,Entrega del programa,0,14.2,Materias Electivas,5
-14.4,Evaluación,0,14.3,Materias Electivas,6
+14.1,Desarrollo del programa,0,14,Materias Electivass,3
+14.2,Gestión del recursos,0,14.1,Materias Electivass,4
+14.3,Entrega del programa,0,14.2,Materias Electivass,5
+14.4,Evaluación,0,14.3,Materias Electivass,6
 15,Recursos Humanos,0,10,Materias Obligatorias,1
-15.1,Desarrollo del plan de RRHH,10,15,Materias Electivas,3
-15.2,Convocatoria y selección,0,15.1,Materias Electivas,4
-15.3,Incorporación y capacitación,0,15.2,Materias Electivas,5
-15.4,Desarrollo y mejora,0,15.3,Materias Electivas,6
-15.5,Compensación y administración,0,15.4,Materias Electivas,7
+15.1,Desarrollo del plan de RRHH,10,15,Materias Electivass,3
+15.2,Convocatoria y selección,0,15.1,Materias Electivass,4
+15.3,Incorporación y capacitación,0,15.2,Materias Electivass,5
+15.4,Desarrollo y mejora,0,15.3,Materias Electivass,6
+15.5,Compensación y administración,0,15.4,Materias Electivass,7
 16,Administración y finanzas,0,10,Materias Obligatorias,1
-16.1,Planificación administrativo financiera,0,16,Materias Electivas,3
-16.2,Procesos de compras,0,16.1,Materias Electivas,4
-16.3,Procesos de facturación y cobranzas,0,16.2,Materias Electivas,5
-16.4,Proceso de pago a proveedores,0,16.3,Materias Electivas,6
-16.5,Liquidación de sueldos,0,16.4,Materias Electivas,7
-16.6,Administración de tesorería,0,16.5,Materias Electivas,8
-16.7,Procesos contables,0,16.6,Materias Electivas,9
-16.8,Procesos legales,0,16.7,Materias Electivas,10
+16.1,Planificación administrativo financiera,0,16,Materias Electivass,3
+16.2,Procesos de compras,0,16.1,Materias Electivass,4
+16.3,Procesos de facturación y cobranzas,0,16.2,Materias Electivass,5
+16.4,Proceso de pago a proveedores,0,16.3,Materias Electivass,6
+16.5,Liquidación de sueldos,0,16.4,Materias Electivass,7
+16.6,Administración de tesorería,0,16.5,Materias Electivass,8
+16.7,Procesos contables,0,16.6,Materias Electivass,9
+16.8,Procesos legales,0,16.7,Materias Electivass,10
