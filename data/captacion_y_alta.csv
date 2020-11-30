@@ -11,8 +11,8 @@ codigo,materia,creditos,correlativas,categoria,nivel
 3.2.1.3,Campañas de aumento de cuota,0,3.2.1.2,Materias Electivas,7
 3.3,Contacto a donantes,0,3.2,Materias Obligatorias,3
 3.3.1,Ejecutar contacto,0,3.3,Materias Electivas,4
-3.4,Analisis de resultados,0,3.3,Materias Obligatorias,6
-3.4.1,Establecer parámetros de control de campaña,0,3.4,Materias Electivas,7
+3.4,Analisis de resultados,0,3.3,Materias Obligatorias,4
+3.4.1,Establecer parámetros de control de campaña,0,3.4,Materias Electivas,5
 3.4.2,Analizar resultados,0,3.4.1,Materias Electivas,6
 3.4.3,Generar hipótesis de resultados,0,3.4.2,Materias Electivas,7
 3.5,Comunicación de resultados,0,3.4,Materias Obligatorias,5
