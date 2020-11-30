@@ -26,10 +26,10 @@ codigo,materia,creditos,correlativas,categoria,nivel
 15.5,Compensación y administración,0,15.4,Materias Electivass,7
 16,Administración y finanzas,0,10,Materias Obligatorias,1
 16.1,Planificación administrativo financiera,0,16,Materias Electivass,3
-16.2,Procesos de compras,0,16.1,Materias Electivass,4
-16.3,Procesos de facturación y cobranzas,0,16.2,Materias Electivass,5
-16.4,Proceso de pago a proveedores,0,16.3,Materias Electivass,6
-16.5,Liquidación de sueldos,0,16.4,Materias Electivass,7
-16.6,Administración de tesorería,0,16.5,Materias Electivass,8
-16.7,Procesos contables,0,16.6,Materias Electivass,9
-16.8,Procesos legales,0,16.7,Materias Electivass,10
+16.2,Procesos de compras,0,16,Materias Electivass,4
+16.3,Procesos de facturación y cobranzas,0,16,Materias Electivass,5
+16.4,Proceso de pago a proveedores,0,16,Materias Electivass,6
+16.5,Liquidación de sueldos,0,16,Materias Electivass,7
+16.6,Administración de tesorería,0,16,Materias Electivass,8
+16.7,Procesos contables,0,16,Materias Electivass,9
+16.8,Procesos legales,0,16,Materias Electivass,10
